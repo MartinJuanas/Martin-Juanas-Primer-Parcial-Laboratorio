@@ -1,0 +1,2 @@
+{'id': 7, 'Objeto': 'Teclado Mecánico', 'Marca': 'Razer', 'Precio': 1299.9, 'Caracteristicas': ['Teclas retroiluminadas', 'Diseño ergonómico', 'Conexión USB'], 'Cantidad': 10}
+Total a pagar :$1299.9
